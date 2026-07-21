@@ -52,12 +52,12 @@
     "expandedKeys": [],
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 41
+        "line": 2,
+        "ch": 0
       },
       "to": {
-        "line": 1,
-        "ch": 41
+        "line": 2,
+        "ch": 0
       }
     }
   }
