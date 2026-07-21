@@ -1,0 +1,39 @@
+{
+  "Template/日报.md": {
+    "expandedKeys": []
+  },
+  "claude.md": {
+    "expandedKeys": [],
+    "scroll": 0
+  },
+  "未命名.md": {
+    "expandedKeys": [],
+    "scroll": 5.538285289969105
+  },
+  "音乐学习/和弦.md": {
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 36
+      },
+      "to": {
+        "line": 0,
+        "ch": 36
+      }
+    },
+    "scroll": 0
+  },
+  "LaTex/latex学习.md": {
+    "expandedKeys": [],
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 4
+      },
+      "to": {
+        "line": 0,
+        "ch": 4
+      }
+    }
+  }
+}
