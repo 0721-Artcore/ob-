@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "哲学学习/思考，快与慢 = Thinking, Fast and Slow ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+                "file": "测试笔记.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "思考，快与慢 = Thinking, Fast and Slow ( etc.) (z-library.sk, 1lib.sk, z-lib.sk) 的反向链接列表"
+              "title": "测试笔记 的反向链接列表"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "哲学学习/思考，快与慢 = Thinking, Fast and Slow ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+                "file": "测试笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "思考，快与慢 = Thinking, Fast and Slow ( etc.) (z-library.sk, 1lib.sk, z-lib.sk) 的出链列表"
+              "title": "测试笔记 的出链列表"
             }
           },
           {
@@ -185,8 +185,7 @@
               "title": "Quiet Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b36bfeaa81a77f0d",
@@ -226,7 +225,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,7 +247,7 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "6ac70da4ddaf6f6f",
+  "active": "298b630c28af8b6a",
   "lastOpenFiles": [
     "Excalidraw/LaTex.md",
     "测试笔记.md",

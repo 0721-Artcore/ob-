@@ -299,8 +299,8 @@
     "titleBar": 0
   },
   "buttonHiding": {
-    "enableLeftRibbon": true,
-    "enableStatusBar": true,
+    "enableLeftRibbon": false,
+    "enableStatusBar": false,
     "enableStatusBarHover": false,
     "leftRibbon": [],
     "statusBar": []

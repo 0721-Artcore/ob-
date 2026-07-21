@@ -46,8 +46,7 @@
     "leftRibbon": [
       "新建数据库",
       "插入模板",
-      "新建白板",
-      "Open Git source control"
+      "新建白板"
     ]
   },
   "spacing": 8,
