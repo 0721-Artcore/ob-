@@ -299,7 +299,7 @@
     "titleBar": 0
   },
   "buttonHiding": {
-    "enableLeftRibbon": false,
+    "enableLeftRibbon": true,
     "enableStatusBar": true,
     "enableStatusBarHover": false,
     "leftRibbon": [],
@@ -548,7 +548,7 @@
     "autoLoadOnStartup": true,
     "version": "v0.548.0",
     "totalIcons": 1640,
-    "lastLoadTime": 1784648370942,
+    "lastLoadTime": 1784650155881,
     "showIconBrowser": true,
     "iconsPerPage": 50
   },
