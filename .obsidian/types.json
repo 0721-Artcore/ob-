@@ -4,6 +4,6 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date": "checkbox",
-    "日期": "datetime"
+    "日期": "text"
   }
 }

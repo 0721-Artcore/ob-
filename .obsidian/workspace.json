@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c3a35b4a0e2629c3",
+        "id": "f6c15679a27aed8c",
         "type": "tabs",
         "children": [
           {
-            "id": "e59139ca3c63cba1",
+            "id": "b5334f41872a7b8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第一篇日记.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "第一篇日记"
+              "title": "新标签页"
             }
           }
         ]
@@ -117,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 200
   },
   "right": {
     "id": "4500d5c72bd465c0",
@@ -133,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一篇日记.md",
+                "file": "Templatez/日记.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "第一篇日记 的反向链接列表"
+              "title": "日记 的反向链接列表"
             }
           },
           {
@@ -152,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一篇日记.md",
+                "file": "Templatez/日记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "第一篇日记 的出链列表"
+              "title": "日记 的出链列表"
             }
           },
           {
@@ -212,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一篇日记.md",
+                "file": "Templatez/日记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第一篇日记 的大纲"
+              "title": "日记 的大纲"
             }
           }
         ],
@@ -226,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,54 +245,53 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "e59139ca3c63cba1",
+  "active": "fdbff7b59b9b5890",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "第一篇日记.md",
+    "Excalidraw/Drawing 2026-07-18 20.39.18.excalidraw.md",
+    "附件/Pasted image 20260713234952.png",
+    "附件/截图 2026-07-14 16-47-48.png",
+    "附件/截图 2026-07-13 23-41-09.png",
+    "附件/截图 2026-07-13 20-05-48.png",
+    "附件/截图 2026-07-13 19-58-50.png",
+    "附件/截图 2026-07-13 19-53-34.png",
+    "附件/截图 2026-07-13 19-52-53.png",
+    "附件/截图 2026-07-12 22-47-12.png",
+    "笔记.md",
+    "Excalidraw/Drawing 2026-07-12 23.20.47.excalidraw.md",
+    "maki的数学基础 高中到大学衔接数学课程/逻辑.md",
+    "读书笔记/十二國記.md",
+    "Template/日记 1.md",
+    "Excalidraw/LaTex.md",
+    "日记/2026-07-24.md",
+    "Template/读书.md",
+    "读书笔记",
+    "未命名.md",
+    "Template/日记.md",
+    "日记/第一篇日记.md",
+    "2026-07-24.md",
+    "Templatez/日记.md.tmp.13732.54249eebd836",
+    "Templatez",
+    "日记",
     "哲学学习/论方法  第一哲学沉思.md",
+    "conflict-files-obsidian-git.md",
     "测试笔记.md",
     "img/assets/Pasted image 20260622170311.png",
     "img/assets",
     "img/assets/Pasted image 20260623123917.png",
-    "Excalidraw/LaTex.md",
     "LaTex/latex学习.md",
     "线性代数",
-    "图片/字号对照表.png",
     "哲学学习/毛泽东选集(1-7卷,包括后续两卷静火版) (毛泽东) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "哲学学习/论方法第一哲学沉思 ([法]笛卡尔张小勇译) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "哲学学习/[汉译世界学术名著丛书]A0104 伦理学【分科本序号：A082】 ([荷兰]斯宾诺莎； 贺麟译) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "C语言学习/C语言入门经典 第5版 货 (（美）霍尔顿（Horton，I·）著 etc.) (z-library.sk, 1lib.sk, z-lib.sk) - 副本.pdf",
-    "LaTex/lshort-zh-cn 1.pdf",
     "claude.md",
     "C语言学习/未命名.md",
-    "Excalidraw",
-    "哲学学习/思考，快与慢 = Thinking, Fast and Slow ( etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "LaTex/LaTeX Cookbook Over 90 hand_  1.pdf",
-    "Template/日报.md",
     "英语学习/Unit 2.md",
     "英语学习/音标.md",
     "音乐学习/和弦.md",
     "模板/语法笔记模板.md",
     "LaTex.md",
     "MinerU_markdown_线性代数_(第6版)_(（美）吉尔伯特·斯特朗)_(z-library.sk,_1lib.sk,_z-lib.sk)_2079224007591161856.md",
-    "MinerU_markdown_线性代数_(第6版)_(（美）吉尔伯特·斯特朗)_(z-library.sk,_1lib.sk,_z-lib.sk)_2079224033998503936.md",
-    "MinerU_markdown_线性代数_(第6版)_(（美）吉尔伯特·斯特朗)_.md",
-    "图片/Pasted image 20260628214549.png",
-    "图片/Pasted image 20260628213938.png",
-    "图片/Pasted image 20260626230831.png",
-    "图片/Pasted image 20260626230424.png",
-    "图片/Pasted image 20260626222650.png",
-    "图片/Pasted image 20260626221452.png",
-    "图片/Pasted image 20260626220508.png",
-    "英语/00-总览.md",
-    "英语/00-每日打卡.md",
-    "英语/语音/04-日语人发音难点.md",
-    "英语/语音/01-BBC音标学习计划.md",
-    "英语/语法/00-语法索引.md",
-    "英语/新概念/新概念1学习记录.md",
-    "英语/练习/每日一句.md",
-    "英语/练习/错题集.md",
-    "英语/词汇/易错词.md",
     "未命名.canvas"
   ]
 }

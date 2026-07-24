@@ -6,5 +6,8 @@
   "weeklyNoteFormat": "",
   "weeklyNoteTemplate": "",
   "weeklyNoteFolder": "",
-  "localeOverride": "system-default"
+  "localeOverride": "system-default",
+  "dailyNoteFormat": "YYYY-MM-DD dddd",
+  "dailyNoteTemplate": "",
+  "dailyNoteFolder": "日记"
 }
